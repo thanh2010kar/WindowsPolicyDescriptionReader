@@ -1,0 +1,24 @@
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+venv/
+.venv/
+
+# PyInstaller
+build/
+dist/
+
+# IDE
+.vscode/
+.idea/
+
+# Temporary files
+*.log
+*.tmp
+*.bak
+
+# Windows
+Thumbs.db
